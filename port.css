@@ -1,0 +1,398 @@
+body {
+    background: #263238;
+    margin: 0;
+
+}
+
+
+.navbar ul {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    overflow: hidden;
+    width: 400px
+}
+.navbar a {
+    text-decoration: none;
+    display: block;
+    color: white;
+    padding: 15px; 
+    text-align: center;
+
+}
+.navbar a:hover {
+    color: white;
+}
+.navbar li {
+    float: left;
+    margin-right: 10px;
+      }
+.navbar {
+    position: relative;
+    left: 80px;
+}
+
+.container1son {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.signin {
+    padding: 10px 30px;
+    border-radius: 8px;
+    border: solid 2px white;
+    background-color: transparent;
+    color: white;
+    margin-right: 7px;
+}
+.getstarted {
+    padding: 10px 17px;
+    border-radius: 8px;
+    border: solid 2px #23B123;
+    background: #23B123;
+    color: white;
+}
+.kakuvest {
+    color: white;
+    position: relative;
+    bottom: 15px;
+}
+.container1 {
+    margin-top: 22px;
+}
+  .container2son{
+  display: flex;
+  justify-content: center;
+   }
+
+
+   .son2 {
+    text-align: center;
+   }
+   .satauri {
+    color: white;
+    font-size: 70px;
+   }
+
+   .invest {
+    color: #23B123;
+
+   }
+.sataurip {
+    color: #FFFF;
+}
+.enter {
+    padding: 15px 180px 15px 20px;
+    border-radius: 7px;
+    position: relative;
+    left: 60px;
+    margin-top: 20px;
+}
+::placeholder {
+    font-size: 16px;
+    color: black;
+}
+.getstarted1 {
+    padding: 10px 17px;
+    border-radius: 8px;
+    border: solid 2px #23B123;
+    background: #23B123;
+    color: white;
+    position: relative;
+    right: 53px;
+}
+
+.images {
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 110px;
+
+        }
+
+        .farmvest {
+            font-size: 60px;
+            color: white;
+        }
+        .container3 {
+            margin-bottom: 120px;
+            display: flex;
+            justify-content: space-evenly;
+        }
+         .cont3-1 {
+            margin-left: 100px;
+         }
+
+
+
+        .surat {
+            width: 80px;
+            height: 80px;
+             }
+        .dolor {
+            display: flex;
+            margin-left: 4px;
+        }
+        .topred {
+            position: relative;
+            bottom: 20px;
+            color: white;
+            left: 30px;
+        }
+        .suratson {
+            font-size: 14px;
+            position: relative;
+            top: 10px;
+        }
+        .dolor1 {
+            margin-top: 60px;
+            display: flex;
+            margin-left: 4px;
+        }
+        .panjara{
+            height: 660px;
+            position: relative;
+            top: 50px;
+            right: 70px;
+        }
+        .container4 {
+            display: flex;
+            justify-content: space-evenly;
+            margin-bottom: 120px;
+        }
+        .whatisf {
+            padding: 15px 230px 15px 14px;
+            border-radius: 7px;
+            color: white;
+            background: #FFFFFF0D;
+            border: solid 1px  #FFFFFF0D;
+            font-size: 15px;
+            margin-bottom: 15px;
+
+        }
+        .whatisf1 {
+            padding: 15px 211px 15px 14px;
+            border-radius: 7px;
+            color: white;
+            background: #FFFFFF0D;
+            border: solid 1px  #FFFFFF0D;
+            font-size: 15px;
+            margin-bottom: 15px;
+
+        }
+        .whatisf2 {
+            padding: 15px 109px 15px 14px;
+            border-radius: 7px;
+            color: white;
+            background: #FFFFFF0D;
+            border: solid 1px  #FFFFFF0D;
+            font-size: 15px;
+
+        }
+        .panjara2 {
+            height: 520px;
+            position: relative;
+            top: 45px;
+            margin-left: 140px;
+        }
+        .pathway {
+        margin-right: 200px;
+
+
+           }
+           .number {
+            width: 40px;
+            background: #FFFFFF0D;
+            border-radius: 50px;
+            color: white;
+            text-align: center;
+
+           }
+           .learnmore {
+            color: white;
+            background: #23B123;
+            border: solid 2px #23B123;
+            border-radius: 8px;
+            padding: 10px 30px;
+            margin-top: 10px;
+            
+
+           }
+           .saba {
+            display: flex;
+            color: white;
+            font-size: 13px;
+           }
+           .sabason {
+            margin-left: 20px;
+            position: relative;
+            top: 5px;
+           }
+           .container5 {
+            display: flex;
+            justify-content: space-evenly;
+            margin-bottom: 120px;
+           }
+           .panjara3 {
+            height: 530px;
+            position: relative;
+            right: 100px;
+            top: 50px;
+           }
+           .cont5son {
+            margin-left: 100px;
+           }
+           .toptxt {
+            display: flex;
+            justify-content: center;
+            text-align: center;
+           }
+           .container6 {
+            margin-bottom: 120px;
+           }
+           .twomen {
+            width: 510px;
+            height: 300px;
+            border-radius: 18px;
+            display: flex;
+            background: #FFFFFF0D;
+            margin-right: 40px;
+            margin-top: 50px;
+
+           }
+           .qali1 {
+            height: 300px;
+           }
+           .womensays1 {
+            color: white;
+            margin-top: 30px;
+            margin-left: 20px;
+
+           }
+           .tonia {
+            position: absolute;
+            top: 300px
+           }
+           .mainevent {
+            display: flex;
+            justify-content: center;
+           }
+           .twomen2 {
+            width: 510px;
+            height: 300px;
+            border-radius: 18px;
+            display: flex;
+            background: #FFFFFF0D;
+            margin-top: 50px;
+           }
+    .names {
+        display: flex;
+        justify-content: center;
+    }
+    .smart {
+        position: relative;
+        right: 190px;
+        bottom: 40px;
+        color: white;
+    }
+    .obi {
+        position: relative;
+        left: 280px;
+        bottom: 40px;
+        color: white;
+    }
+    .viewoll {
+        display: flex;
+        justify-content: center;
+    }
+    .viewall {
+        padding: 10px 60px;
+        color: white;
+        background: #23B123; 
+        border: solid 2px #23B123;
+        border-radius: 8px;
+        margin-top: 20px;
+ 
+
+    }
+    .container7 {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 120px;
+    }
+    .frame {
+        width: 1050px;
+    }
+    .dedadivi  {
+        display: flex;
+        justify-content: space-around;
+        background: #35404680;
+        height: 200px;
+        align-items: center;
+
+    }
+    .container8 {
+        color: white;
+    }
+    .endemail {
+        padding: 15px 180px 15px 15px;
+        border: solid 2px white;
+        border-radius: 10px;
+        margin-bottom: 50px;
+            }
+    .subscribe1 {
+      padding: 13px 30px;
+      border: #23B123 solid 2px;
+      background-color: #23B123;
+      color: white;
+      border-radius: 10px;
+      position: relative;
+      right: 130px;
+    }
+.folowuse {
+    margin-bottom: 30px;
+}
+.cullus {
+    margin-bottom: 30px;
+}
+.farmli {
+    margin-bottom: 30px;
+}
+
+    #i1 {
+        font-size: 45px;
+    }
+    #i2 {
+        font-size: 45px;
+        margin-left: 10px;
+    }
+    #i3 {
+        font-size: 45px;
+        margin-left: 10px;
+    }
+    .sendme {
+        position: relative;
+        top: 20px;
+        left: 50px;
+    }
+    hr {
+        border: 1px solid #FFFFFF6B;
+        position: relative;
+       bottom: 160px;
+       width: 1400px;
+    }
+    .privacy {
+        display: flex;
+    }
+    .theend {
+        margin-right: 25px;
+    }
+    .police {
+        display: flex;
+        justify-content: end;
+    }
+    .start {
+        position: relative;
+        right: 650px;
+    }
